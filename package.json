@@ -1,0 +1,20 @@
+{
+  "name": "faase",
+  "version": "1.0.0",
+  "description": "Function as a Service Executor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwoods/faase.git"
+  },
+  "author": "Dan Woodson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danwoods/faase/issues"
+  },
+  "homepage": "https://github.com/danwoods/faase#readme",
+	"bin": "./bin/faase.js"
+}
