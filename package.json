@@ -16,5 +16,5 @@
     "url": "https://github.com/danwoods/faase/issues"
   },
   "homepage": "https://github.com/danwoods/faase#readme",
-	"bin": "./bin/faase.js"
+	"bin": "npx webpack"
 }
