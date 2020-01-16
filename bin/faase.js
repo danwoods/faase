@@ -1,3 +1,6 @@
 #!/usr/bin/env node
 
-console.log("faase v1");
+const pkg = require("../package.json");
+
+console.log(`${pkg.name}::${pkg.version}`);
+console.log(__dirname);
